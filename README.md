@@ -1,1 +1,1 @@
-In this project I analyse what affects students' grades, specifically socialising frequency, alcohol consumption and if the consequences affect their final grade. 
+In this project I analyse what affects students' grades, specifically socialising frequency, alcohol consumption and if the consequences affect their final grade and I tried to predict   students academic performance (grades).
